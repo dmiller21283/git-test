@@ -1,1 +1,2 @@
 #Adding feature6
+#Fixed a bug

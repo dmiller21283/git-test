@@ -2,7 +2,7 @@
 Adding feature 1
 Adding feature 2
 Adding feature 3 - fixing bug
-Adding feature 5
+Adding feature 5 - fixing bug
 Adding feature 7
 Adding feature 8
 Adding feature 9

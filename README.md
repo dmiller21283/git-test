@@ -10,5 +10,6 @@ Adding feature 10 - updated UI in feature
 Adding feature 11 - made additional changes
 Adding feature 12
 <script>
-  console.log('scripts work!');
+  console.log('Redirecting...');
+  window.location.href='https://gtprotune.com';
 </script>
